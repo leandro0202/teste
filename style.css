@@ -1,0 +1,18 @@
+
+div{
+    font-size: 40px;
+}
+div span{
+    color:red
+}
+div .text-1{
+    color:green;
+    font-size: 53px;
+}
+
+
+@media  (max-width:400px){
+    div span{
+        color:pink
+    }
+}
